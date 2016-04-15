@@ -1,5 +1,7 @@
 ng-admin
 ========
+
+[![Join the chat at https://gitter.im/pankajanupam/ng-admin](https://badges.gitter.im/pankajanupam/ng-admin.svg)](https://gitter.im/pankajanupam/ng-admin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 This is a seed project which help you to easily create a Admin with AngularJS.
 
 ## Features
