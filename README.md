@@ -2,8 +2,8 @@ ng-admin
 ========
 This is a seed project which help you to easily create a Admin with AngularJS.
 
-*[![Join the chat at https://gitter.im/pankajanupam/ng-admin](https://badges.gitter.im/pankajanupam/ng-admin.svg)](https://gitter.im/pankajanupam/ng-admin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-+[![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
++ [![Join the chat at https://gitter.im/pankajanupam/ng-admin](https://badges.gitter.im/pankajanupam/ng-admin.svg)](https://gitter.im/pankajanupam/ng-admin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
++ [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 
 ## Features
 Nothing build yet
