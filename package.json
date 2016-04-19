@@ -1,0 +1,23 @@
+{
+  "name": "ng-admin",
+  "version": "1.0.0",
+  "description": "This is a seed project which help you to easily create a Admin with AngularJS.",
+  "main": "ng-admin.js",
+  "scripts": {
+    "test": "ng-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pankajanupam/ng-admin.git"
+  },
+  "keywords": [
+    "angular",
+    "admin"
+  ],
+  "author": "Pankaj Anupam",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/pankajanupam/ng-admin/issues"
+  },
+  "homepage": "https://github.com/pankajanupam/ng-admin#readme"
+}
